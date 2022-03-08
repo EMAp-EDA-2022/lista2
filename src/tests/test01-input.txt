@@ -1,0 +1,8 @@
+insert:X02:2
+insert:X09:9
+list-heap
+insert:X05:5
+insert:X03:3
+insert:X07:7
+list-heap
+list-heap

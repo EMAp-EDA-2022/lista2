@@ -1,0 +1,53 @@
+insert(4, JFK): successful
+insert(9, ORD): successful
+insert(20, DFW): successful
+list-heap: 
+  {level: 0 node count: 3}
+  [4 JFK]
+  [9 ORD]
+  [20 DFW]
+insert(5, DEL): successful
+insert(6, LAX): successful
+list-heap: 
+  {level: 0 node count: 5}
+  [4 JFK]
+  [5 DEL]
+  [6 LAX]
+  [9 ORD]
+  [20 DFW]
+insert(7, CDG): successful
+insert(16, SFO): successful
+list-heap: 
+  {level: 0 node count: 7}
+  [4 JFK]
+  [5 DEL]
+  [6 LAX]
+  [7 CDG]
+  [9 ORD]
+  [16 SFO]
+  [20 DFW]
+insert(14, ATL): successful
+list-heap: 
+  {level: 0 node count: 8}
+  [4 JFK]
+  [5 DEL]
+  [6 LAX]
+  [7 CDG]
+  [9 ORD]
+  [14 ATL]
+  [16 SFO]
+  [20 DFW]
+insert(8, PEK): successful
+insert(11, BOS): successful
+list-heap: 
+  {level: 0 node count: 10}
+  [4 JFK]
+  [5 DEL]
+  [6 LAX]
+  [7 CDG]
+  [8 PEK]
+  [9 ORD]
+  [11 BOS]
+  [14 ATL]
+  [16 SFO]
+  [20 DFW]

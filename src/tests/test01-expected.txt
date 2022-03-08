@@ -1,0 +1,23 @@
+insert(2, X02): successful
+insert(9, X09): successful
+list-heap: 
+  {level: 0 node count: 2}
+  [2 X02]
+  [9 X09]
+insert(5, X05): successful
+insert(3, X03): successful
+insert(7, X07): successful
+list-heap: 
+  {level: 0 node count: 5}
+  [2 X02]
+  [3 X03]
+  [5 X05]
+  [7 X07]
+  [9 X09]
+list-heap: 
+  {level: 0 node count: 5}
+  [2 X02]
+  [3 X03]
+  [5 X05]
+  [7 X07]
+  [9 X09]

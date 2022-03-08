@@ -1,0 +1,15 @@
+insert:JFK:4
+insert:ORD:9
+insert:DFW:20
+list-heap
+insert:DEL:5
+insert:LAX:6
+list-heap
+insert:CDG:7
+insert:SFO:16
+list-heap
+insert:ATL:14
+list-heap
+insert:PEK:8
+insert:BOS:11
+list-heap

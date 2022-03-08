@@ -1,0 +1,63 @@
+insert(88, BWI): successful
+insert(42, LAX): successful
+insert(26, IAD): successful
+insert(67, DCA): successful
+insert(94, JFK): successful
+insert(48, ATL): successful
+insert(19, SFO): successful
+list-heap: 
+  {level: 0 node count: 7}
+  [19 SFO]
+  [26 IAD]
+  [42 LAX]
+  [48 ATL]
+  [67 DCA]
+  [88 BWI]
+  [94 JFK]
+list-heap: 
+  {level: 0 node count: 7}
+  [19 SFO]
+  [26 IAD]
+  [42 LAX]
+  [48 ATL]
+  [67 DCA]
+  [88 BWI]
+  [94 JFK]
+clear: sucessful
+insert(67, DCA): successful
+insert(26, IAD): successful
+insert(48, ATL): successful
+insert(19, SFO): successful
+insert(88, BWI): successful
+insert(94, JFK): successful
+insert(42, LAX): successful
+insert(73, ORD): successful
+insert(55, DFW): successful
+insert(13, SEA): successful
+insert(22, MIA): successful
+list-heap: 
+  {level: 0 node count: 11}
+  [13 SEA]
+  [19 SFO]
+  [22 MIA]
+  [26 IAD]
+  [42 LAX]
+  [48 ATL]
+  [55 DFW]
+  [67 DCA]
+  [73 ORD]
+  [88 BWI]
+  [94 JFK]
+list-heap: 
+  {level: 0 node count: 11}
+  [13 SEA]
+  [19 SFO]
+  [22 MIA]
+  [26 IAD]
+  [42 LAX]
+  [48 ATL]
+  [55 DFW]
+  [67 DCA]
+  [73 ORD]
+  [88 BWI]
+  [94 JFK]
